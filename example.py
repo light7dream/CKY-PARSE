@@ -1,6 +1,6 @@
 #usage: pyhton3 example.py
 
-from CYK_Paser import Grammar
+from CYK_Parser import Grammar
 
 sentences = [
 'The cat sat on the mat',
